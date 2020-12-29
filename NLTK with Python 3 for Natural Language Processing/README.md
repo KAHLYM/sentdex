@@ -1,10 +1,10 @@
 # NLTK with Python 3 for Natural Language Processing
 
-## Jargon
+## Dictionary
 
-| Word                              | Description                                                                                                                             |
-| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Tokenizing                        | There exists word tokenizers and sentence tokenizers                                                                                    |
-| Lexicon                           | Word and it's means                                                                                                                     |
-| Corpora                           | Body of text. e.g. medical journals, presidential speeches, English language.                                                           |
-| investor-speak, english-speak ... | e.g. investor-speak 'bull' - someone who is positive about the market; english-speak 'bull' - scary animal you dont want running at you |
+| Word      | Description                                                                                                                 |
+| --------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Tokenize  | Break (text) into individual linguistic units.                                                                              |
+| Lexicon   | The complete set of meaningful units in a language.                                                                         |
+| Corpora   | The main body or mass of a structure. i.e. the body of text e.g. medical journals, presidential speeches, English language. |
+| Stop Word | Filtered out before or after processing of text                                                                             |
