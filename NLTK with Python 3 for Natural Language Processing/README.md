@@ -2,10 +2,10 @@
 
 ## Dictionary
 
-| Word      | Description                                                                                                                                           |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tokenize  | Break (text) into individual linguistic units.                                                                                                        |
-| Lexicon   | The complete set of meaningful units in a language.                                                                                                   |
-| Corpora   | The main body or mass of a structure. i.e. the body of text e.g. medical journals, presidential speeches, English language.                           |
-| Stop Word | Filtered out before or after processing of text                                                                                                       |
+| Word      | Description                                                                                                                                          |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Corpora   | The main body or mass of a structure. i.e. the body of text e.g. medical journals, presidential speeches, English language.                          |
+| Lexicon   | The complete set of meaningful units in a language.                                                                                                  |
 | Stem      | Reduce word that affix to suffix and prefix or to the root of the word known as a lemma e.g. python is the stem of pythoner, pythoning and pythoned. |
+| Stop Word | Filtered out before or after processing of text                                                                                                      |
+| Tokenize  | Break (text) into individual linguistic units.                                                                                                       |
